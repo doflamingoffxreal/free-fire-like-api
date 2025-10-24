@@ -89,12 +89,3 @@ if __name__ == "__main__":
 
 
 
-
-
-
-
-
-
-    
-#URL_ENPOINTS ="http://127.0.0.1:5000/like?uid=13002831333&server=me"
-#credits : "https://great.thug4ff.com/"
